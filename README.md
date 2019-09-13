@@ -1,0 +1,2 @@
+# JsIntroductory
+Javascript mini project
